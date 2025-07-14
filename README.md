@@ -1,10 +1,65 @@
-- 👋 Hi, I’m @Aakash690
-- 👀 I’m interested in learning and appling my coading in new problems and projects.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on projects and new ideas.
-- 📫 How to reach me aakashsrivastava690@gmail.com
+# 👋 Hi, I'm Aakash Srivastava
 
-<!---
-Aakash690/Aakash690 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Analytical and detail-oriented Data Analyst** with hands-on experience in SQL, Python, Power BI, and enterprise data management. I specialize in transforming raw data into actionable insights through clean pipelines, reliable reporting, and process automation.
+
+🔍 Currently working on data quality, ETL optimization, and AI-driven automation for large-scale enterprise systems.
+
+---
+
+## 💼 Professional Summary
+
+### 🏢 Data Analyst / MDM Developer @ Cognizant  
+**Client Projects: Intel & VMware**  
+*April 2023 – Present*
+
+- Built and optimized SQL diagnostics to improve internal data accuracy
+- Automated audit tools to reduce manual checks and enhance compliance
+- Developed cross-functional reporting pipelines using SQL/PLSQL
+- Enabled insights for governance stakeholders and project managers
+- Maintained standardized master data using Informatica MDM
+- Boosted ETL efficiency by 25% through performance monitoring
+- Leveraged Generative AI for automation, reducing cycle time by 20%
+
+---
+
+## ⚙️ Tools & Technologies
+
+| Category              | Skills & Tools                                 |
+|-----------------------|-------------------------------------------------|
+| 💻 Languages & Tools  | SQL, Python, Power BI, Excel, HTML              |
+| 🔧 Data Handling      | Data Cleaning, ETL, Informatica MDM (SaaS)      |
+| 📚 Currently Learning | Pandas, NumPy, Excel Dashboards                 |
+| 🤖 AI & Automation    | Generative AI, Agentic AI, ML Fundamentals      |
+
+---
+
+## 🧠 Soft Skills
+
+`Analytical Thinking` • `Collaboration` • `Time Management`
+
+---
+
+## 🎓 Education
+
+**B.Tech in Electrical & Electronics Engineering**  
+KIET Group of Institutions, AKTU, Ghaziabad  
+*2018 – 2022 | CGPA: 8.08*
+
+**HSC - CBSE Board**  
+*2015 – 2017 | 74.2%*
+
+**SSC - CBSE Board**  
+*2013 – 2015 | CGPA: 9.6*
+
+---
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Email-aakashsrivastava690@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:aakashsrivastava690@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashsrivastava690)  
+📞 +91-7678976925  
+
+---
+
+> 🚀 *Let's connect and collaborate on data-driven solutions!*
+
