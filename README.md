@@ -26,8 +26,7 @@
 
 | Category              | Skills & Tools                                 |
 |-----------------------|-------------------------------------------------|
-| 💻 Languages & Tools  | SQL,Power BI, Python(Pandas, NumPy),            |
-                        | Excel Dashboards, Excel, HTML                    |
+| 💻 Languages & Tools  | SQL,Power BI, Python(Pandas, NumPy), Excel, HTMl|
 | 🔧 Data Handling      | Data Cleaning, ETL, Informatica MDM (SaaS)      |                 
 | 🤖 AI & Automation    | Generative AI, Agentic AI, ML Fundamentals      |
 
